@@ -1,0 +1,12 @@
+requests==2.32.3
+beautifulsoup4==4.13.3
+readability-lxml==0.8.1
+langchain-community==0.3.21
+langchain-text-splitters==0.3.8
+python-dotenv==1.1.0
+pinecone==6.0.2
+sentence-transformers==4.0.2
+streamlit==1.44.1
+PyPDF2==3.0.1
+docx2txt==0.9
+uuid==1.30
