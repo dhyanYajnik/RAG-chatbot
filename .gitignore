@@ -4,11 +4,6 @@ venv/
 
 .env
 
-.idea/
-.vscode/
-*.swp
-*.swo
-
 data/*.pdf
 data/*.docx
 documents/
